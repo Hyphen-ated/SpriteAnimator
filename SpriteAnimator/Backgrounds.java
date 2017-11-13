@@ -30,7 +30,13 @@ public abstract class Backgrounds {
 		"Boss-Arrghus",
 		"Boss-Mothula",
 		"Boss-Blind",
-		"Boss-Vitreous"
+		"Boss-Vitreous",
+		"Home-Debug",
+		"Dungeon-Tower of Hera-Debug",
+		"Dungeon-Palace of Darkness-Debug",
+		"Dungeon-Swamp Palace-Debug",
+		"Dungeon-Thieves Town-Debug",
+		"Boss-Vitreous-Debug"
 		};
 
 	/**
